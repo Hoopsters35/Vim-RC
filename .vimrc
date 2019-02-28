@@ -82,3 +82,6 @@ nnoremap ^ <nop>
 
 " Only redraw screen when needed
 set lazyredraw
+
+" Stop visual and audio bell
+set vb t_vb=
